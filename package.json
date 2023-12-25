@@ -1,7 +1,8 @@
 {
+  
   "name": "advise-app",
   "version": "0.1.0",
-  "homepage": " ",
+  "homepage": "https://suhaibaziz.github.io/advice/",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.5.1",
